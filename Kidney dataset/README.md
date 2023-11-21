@@ -1,3 +1,7 @@
+## Complete the form and send it to our Email.
+[KUS_ReleaseAgreement](https://drive.google.com/file/d/1LEhSs8eZUur2mFYSod0taAItjtUhk9Wc/view?usp=drive_link) 
+
+
 ## Citation/Reference: All documents and papers that report on research that uses the KUS will acknowledge the use of the dataset by including an appropriate citation to the following:
 [[1]	Chen Gongping, Lei Zhao, Yin Xiaotao, Cui Liang, Dai Yu. "BAAF: A Benchmark Attention Adaptive Framework for Medical Ultrasound Image Segmentation Tasks." arXiv preprint arXiv:2310.00919 (2023).]( https://doi.org/10.48550/arXiv.2310.00919 )
 
