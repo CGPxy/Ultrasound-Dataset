@@ -7,7 +7,7 @@ The remaining private ultrasound is undergoing public review, we will publish ou
 
 Please continue to pay attention to our work.
 
-Homepage[https://cgpxy.github.io/cgp/]
+[Homepage](https://cgpxy.github.io/cgp/)
 
 
 
