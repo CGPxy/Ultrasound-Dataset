@@ -3,7 +3,7 @@
 
 [[2]	Chen Gongping, Li Lei, Dai Yu, Zhang Jianxun. NU-net: Rethinking the unpretentious U-net for medical ultrasound image segmentation. Pattern Recognition, 2023.](https://doi.org/10.1016/j.patcog.2023.109728)
 
-[[3]	Chen Gongping, Liu Yuming, Qian Jiang, Zhang Jianxun, Cui Liang, Dai Yu. DSEU-net: A novel deep supervision SEU-net for medical ultrasound image segmentation. Expert Systems with Applications. 2023.](https://doi. org/10.1016/j.eswa.2023.119939)
+[[3]	Chen Gongping, Liu Yuming, Qian Jiang, Zhang Jianxun, Cui Liang, Dai Yu. DSEU-net: A novel deep supervision SEU-net for medical ultrasound image segmentation. Expert Systems with Applications. 2023.](https://doi.org/10.1016/j.eswa.2023.119939)
 
 [[4]	Chen Gongping, Dai Yu, Zhang Jianxun, Cui Liang. Asymmetric U-shaped network with hybrid attention mechanism for kidney ultrasound images segmentation. Expert Systems with Applications. 2023.](https://doi.org/10.1016/j.eswa.2022.118847)
 
