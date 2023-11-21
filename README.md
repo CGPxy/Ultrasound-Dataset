@@ -1,14 +1,12 @@
 # Ultrasound-Dataset
-This is a public ultrasound dataset. This work has received support from the Fourth Medical Center of the PLA General Hospital and the Civil Aviation General Hospital.
+Here is a summary of some public ultrasound datasets as well as our publicly available private datasets. Our publicly available dataset has been supported by the Fourth Medical Center of the People's Liberation Army General Hospital, the Civil Aviation General Hospital, and Tianjin Cancer Hospital.
 
-This work is currently undergoing public review and we will publish our full ultrasound data once the review is approved.
+The breast ultrasound dataset is already publicly available. Currently, we have released a kidney ultrasound dataset containing 200 images.
+
+The remaining private ultrasound is undergoing public review, we will publish our full ultrasound data once the review is approved.
 
 Please continue to pay attention to our work.
-  
-  
 
 
-
-# Relates work：
 
 
